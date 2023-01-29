@@ -1,0 +1,15 @@
+.head {
+background-color: #1f2937;
+color: white;
+}
+
+.je {
+display: flex;
+justify-content: flex-end;
+}
+
+.gras { 
+display: flex;    
+font-weight: bold;
+justify-content: flex-start
+}

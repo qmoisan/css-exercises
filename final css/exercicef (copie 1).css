@@ -1,0 +1,18 @@
+.head {
+display: flex;
+font-family:arial;
+background-color: #1f2937;
+color: white;
+}
+
+.gras {
+ margin: 20px; 
+font-weight: bold;
+justify-content: flex-start
+
+}
+
+.beer {
+    flex-direction: row-reverse;
+  
+}
